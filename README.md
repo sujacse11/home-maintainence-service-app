@@ -1,6 +1,6 @@
 # HMS Home Services - Real-Time Home Maintenance & Repair Mobile App
 
-Production-quality on-demand Home Maintenance & Repair platform (like Urban Company) built with **React Native (Expo)** frontend and **Django REST Framework** backend.
+Production-quality on-demand Home Maintenance & Repair platform  built with **React Native (Expo)** frontend and **Django REST Framework** backend.
 
 ---
 
